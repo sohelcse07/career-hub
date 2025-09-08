@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "How to Prepare for a Job Interview",
+    "description": "Learn practical tips to ace your next job interview and leave a lasting impression.",
+    "image": "https://images.unsplash.com/photo-1556740749-887f6717d7e4?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 2,
+    "title": "Top 5 Programming Languages in 2025",
+    "description": "A quick look into the most in-demand programming languages you should learn this year.",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 3,
+    "title": "Remote Work: Pros and Cons",
+    "description": "Working remotely is trending! Explore the advantages and challenges.",
+    "image": "https://images.unsplash.com/photo-1584697964152-0e7f0b0a3e4b?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 4,
+    "title": "Resume Writing Tips",
+    "description": "How to create a professional resume that stands out to employers.",
+    "image": "https://images.unsplash.com/photo-1517430816045-df4b7de0b4e1?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 5,
+    "title": "Effective Time Management",
+    "description": "Learn strategies to manage your time efficiently and boost productivity.",
+    "image": "https://images.unsplash.com/photo-1506748686213-5e8d4a8d8e6d?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 6,
+    "title": "Networking for Career Growth",
+    "description": "Discover the importance of networking and how to build meaningful professional relationships.",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 7,
+    "title": "Mastering Public Speaking",
+    "description": "Tips and techniques to become a confident and effective public speaker.",
+    "image": "https://images.unsplash.com/photo-1506748686213-5e8d4a8d8e6d?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 8,
+    "title": "Building a Personal Brand",
+    "description": "Learn how to establish and grow your personal brand in the digital age.",
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80"
+  }
+]
